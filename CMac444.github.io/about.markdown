@@ -11,3 +11,9 @@ Marsh & Associates, LLC is dedicated to efforts that promote conservation, recov
 Marsh & Associates, LLC
 1024 Vista del Cerro Dr
 Tempe, Arizona 85281
+
+<ul>
+  <li><a href="/">Home</a></li>
+  <li><a href="/about/">Associates</a></li> <!-- Link to the About page -->
+  <li><a href="/contact/">Contact</a></li>
+</ul>
